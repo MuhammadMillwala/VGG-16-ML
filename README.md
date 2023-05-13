@@ -31,5 +31,5 @@ After training the model for 4 epochs, we achieved an accuracy of 96.4% on the t
 
 ## Acknowledgement
 
-This project was inspired by the paper **Very Deep Convolutional Networks for Large-Scale Image Recognition**
-The link for the paper is as follows: https://arxiv.org/abs/1409.1556.
+- This project was inspired by the paper **Very Deep Convolutional Networks for Large-Scale Image Recognition**
+- The link for the paper is as follows: https://arxiv.org/abs/1409.1556.
