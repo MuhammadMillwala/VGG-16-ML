@@ -27,6 +27,9 @@ The project consists of the following files:
 
 ## Results
 
-After training the model for 4 epochs, we achieved an accuracy of 96.4% on the test set. The confusion matrix for the test set is shown below:
+After training the model for 4 epochs, we achieved an accuracy of 96.4% on the test set.
 
-![confusion matrix](confusion_matrix.png)
+## Acknowledgement
+
+This project was inspired by the paper **"Very Deep Convolutional Networks for Large-Scale Image Recognition" **
+The link for the paper is as follows: https://arxiv.org/abs/1409.1556.
